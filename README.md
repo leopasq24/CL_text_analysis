@@ -1,1 +1,1 @@
-# CL_text_analysis
+This Computational Linguistics project has been realized for academic purposes
